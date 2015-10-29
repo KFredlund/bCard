@@ -26,6 +26,12 @@ img {
 	width: 50%;
 	max-width: 150px;
 }
-a:link, a:visited { color: #ecf0f1; }
-a:hover { color: #2980b9; }
+a:link, a:visited { 
+	color: #ecf0f1;
+	font-size: 1.5rem; 
+}
+
+a:hover { 
+	color: #2980b9; 
+}
 
